@@ -1,24 +1,26 @@
-# Hi, I'm Daisy 👋
+# hey, i'm daisy 👋
 
-I'm a Human-Centered AI student at Texas Tech University with a background in leadership, customer-facing operations, and technology.
+human-centered AI @ texas tech  
+computer science background • houston, tx
 
-I'm interested in building technology that is useful, accessible, and designed around the people who use it.
+i'm interested in the space where AI meets actual people —
+how we build it, test it, and make it useful without forgetting
+who's on the other side of the screen.
 
-## 👩‍💻 Areas of Interest
-- Human-Centered AI
-- AI & LLM Evaluation
-- UX & Accessibility
-- Responsible AI
-- Python
+### what i'm working with
+`Python` `AI/LLM Evaluation` `UX` `Accessibility` `Prompt Design`
 
-## 🎓 Education
-**Texas Tech University**  
-B.S. in Human-Centered AI — In Progress
+### currently
+🎓 B.S. Human-Centered AI @ Texas Tech — in progress  
+💻 building out projects in AI evaluation + human-centered design  
+🔎 exploring opportunities in tech & AI
 
-**Houston Community College**  
-Associate of Science in Computer Science
+### a few things i've built
+🏠 **Rental Calculator** — Python  
+💬 **Nondirective Therapy Chatbot** — conversational AI + ethics  
+🧠 **AI Bias Testing** — testing LLM responses across audiences  
+♿ **Accessibility Study** — evaluating real-world digital experiences
 
-## 🚀 Projects
-I'm currently building this portfolio with projects focused on AI evaluation, human-centered design, accessibility, and software development.
+---
 
-More projects coming soon!
+*more projects coming as i clean up this github ✨*
