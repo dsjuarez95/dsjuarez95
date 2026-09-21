@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Daisy 👋
 
-<!--
-**dsjuarez95/dsjuarez95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Human-Centered AI student at Texas Tech University with a background in leadership, customer-facing operations, and technology.
 
-Here are some ideas to get you started:
+I'm interested in building technology that is useful, accessible, and designed around the people who use it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Areas of Interest
+- Human-Centered AI
+- AI & LLM Evaluation
+- UX & Accessibility
+- Responsible AI
+- Python
+
+## 🎓 Education
+**Texas Tech University**  
+B.S. in Human-Centered AI — In Progress
+
+**Houston Community College**  
+Associate of Science in Computer Science
+
+## 🚀 Projects
+I'm currently building this portfolio with projects focused on AI evaluation, human-centered design, accessibility, and software development.
+
+More projects coming soon!
