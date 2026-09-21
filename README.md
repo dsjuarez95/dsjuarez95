@@ -1,26 +1,25 @@
-# hey, i'm daisy 👋
+![Daisy Juarez Banner](6E483E51-2569-486C-842E-94B8B08B23D4.png)
 
-human-centered AI @ texas tech  
-computer science background • houston, tx
+### a little about me ✨
 
-i'm interested in the space where AI meets actual people —
-how we build it, test it, and make it useful without forgetting
-who's on the other side of the screen.
+currently studying Human-Centered AI at Texas Tech after finishing my A.S. in Computer Science at Houston Community College.
 
-### what i'm working with
-`Python` `AI/LLM Evaluation` `UX` `Accessibility` `Prompt Design`
+i'm especially interested in how AI actually works for people. i like testing where it gets things right, where it doesn't, and figuring out how we can make the experience better for the people actually using it.
 
-### currently
-🎓 B.S. Human-Centered AI @ Texas Tech — in progress  
-💻 building out projects in AI evaluation + human-centered design  
-🔎 exploring opportunities in tech & AI
+### what i've been building ✨
 
-### a few things i've built
-🏠 **Rental Calculator** — Python  
-💬 **Nondirective Therapy Chatbot** — conversational AI + ethics  
-🧠 **AI Bias Testing** — testing LLM responses across audiences  
-♿ **Accessibility Study** — evaluating real-world digital experiences
+**Rental Calculator**  
+a Python project for calculating and comparing rental costs.
+
+**Nondirective Therapy Chatbot**  
+exploring conversational AI, user experience, and ethical design.
+
+**AI Bias Testing**  
+testing how LLM responses change across different audiences and prompts.
+
+**Digital Accessibility Study**  
+looking at accessibility through real-world digital experiences.
 
 ---
 
-*more projects coming as i clean up this github ✨*
+currently cleaning up old projects + building new ones ✨
